@@ -1,6 +1,6 @@
 ![alt text](https://raw.githubusercontent.com/globalaichallenge/globalaichallenge.github.io/main/banner.jpg)
 
-# Global AI Challenge for Building E&M Facilities - Technical Conference A World-class Conference About AI Applications in Smart Cities
+# Global AI Challenge for Building E&M Facilities - Technical Conference A World-class Conference About AI Applications in Smart Cities ![Open](https://img.shields.io/badge/open-green.svg)
 
 ### About this event
 The Electrical and Mechanical Services Department (EMSD) of the Government of HKSAR and Guangdong Provincial Association for Science and Technology proudly present to you the Global AI Challenge for Building E&M Facilities – Technical Conference. The international conference will focus on AI technologies in the building electrical and mechanical (E&M) industry and gather innovators from around the world who share a common interest in practical solutions for smart cities through AI innovation. It will explore one of the most important issues of our time: how can data and AI create a smarter world?
