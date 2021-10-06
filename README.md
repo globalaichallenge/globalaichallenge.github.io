@@ -17,9 +17,8 @@ Our impressive lineup of speakers include world-renowned AI leaders from organis
 
 | Date    | Time    | Format |
 | -------- | -------- | ------- |
-| 12 Oct 2021 | PART 1: 9:30am - 12:00pm (GMT+8) | ONLINE |
+| 12 Oct 2021 | PART 1: 9:30am - 12:00pm (GMT+8) | ONLINE | 
 |             | PART 2: 1:00pm - 6:00pm (GMT+8)  |        |
-
 
 Get your **free pass** now via this link!
 
