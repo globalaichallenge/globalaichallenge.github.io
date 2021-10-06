@@ -22,10 +22,10 @@ Our impressive lineup of speakers include world-renowned AI leaders from organis
 
 Get your **free pass** now via this link!
 
-https://globalaichallenge.com/reg/conference.php?lang=en
+[https://globalaichallenge.com/reg/conference.php?lang=en](https://globalaichallenge.com/reg/conference.php?lang=en)
 
 We look forward to having you at the conference!
 
 Please stay tuned to the programme and speakers lineup on [www.globalaichallenge.com](http://www.globalaichallenge.com "www.globalaichallenge.com")
 
-Should you have any inquiries, please contact us at info@globalaichallenge.com
+Should you have any inquiries, please contact us at [info@globalaichallenge.com](mailto:info@globalaichallenge.com)
